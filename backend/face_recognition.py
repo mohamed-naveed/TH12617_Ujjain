@@ -7,7 +7,8 @@ def verify_face(input_img, frame_img):
         return {
             "match": result["verified"],
             "distance": result["distance"],
-            "threshold": result["threshold"]
+            "threshold": result["threshold"],
+            "frame": frame_img
         }
     except Exception as e:
         return {"error": str(e)}
