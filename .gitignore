@@ -8,3 +8,7 @@ __pycache__/
 *.dylib
 *.so
 
+.venv310/
+*.pyc
+__pycache__/
+.venv310/
