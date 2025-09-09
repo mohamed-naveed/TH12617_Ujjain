@@ -1,0 +1,9 @@
+flask
+opencv-python
+deepface
+torch
+yolov5
+librosa
+numpy
+pandas
+matplotlib
