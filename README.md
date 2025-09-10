@@ -47,18 +47,18 @@ It merges advanced computer vision and audio analytics to detect lost persons an
 
 ##5. Future Scope
  
-###(1)Advanced AI Models
+###(1)Advanced AI Models:
        Integrate transformer-based face recognition (e.g., FaceNet + Vision Transformers) for higher accuracy in crowded environments. Use multi-modal AI combining image, audio, and movement patterns for better panic detection.
        
-###(2)Scalable Cloud Deployment
+###(2)Scalable Cloud Deployment:
        Deploy the entire system on cloud platforms like AWS / Azure / GCP. Use serverless APIs and auto-scaling to handle millions of pilgrims during Simhastha 2028.
        
-###(3)Multilingual Voice Assistance
+###(3)Multilingual Voice Assistance:
        Implement voice-based assistance in Hindi, English, Marathi, and other regional languages for guiding pilgrimssafely. Use speech-to-text for panic detection and text-to-speech for announcements.
        
-###(4)Integration with Government & Police Systems
+###(4)Integration with Government & Police Systems:
       Direct integration with local authorities for quick verification of missing persons and suspicious activities. Share real-time alerts with police, disaster response teams, and medical units.
       
-###(5)Blockchain for Security
+###(5)Blockchain for Security:
        Implement blockchain-based data storage to ensure secure handling of sensitive data like faces, belongings, and medicaldetails.
 
