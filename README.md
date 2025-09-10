@@ -8,10 +8,10 @@ GuardianAI is an intelligent safety monitoring system designed to detect potenti
 2. Problem & Solution
 
 Problem Statement:
-Many public and private areas lack automated monitoring systems, leading to delayed response to accidents, theft, or unusual events. Existing solutions are either expensive or not adaptable to smaller environments.
+Large public events like festivals, religious gatherings, and concerts face persistent safety challenges: people get lost, belongings go missing, and crowd panic can escalate into major incidents. Current surveillance systems often fail to provide timely, actionable insights for rapid emergency response or efficient lost and found operations.
 
 Solution:
-GuardianAI provides a cost-effective AI-powered monitoring system that can detect anomalies, alert authorities or users instantly, and maintain logs for future reference.
+It merges advanced computer vision and audio analytics to detect lost persons and belongings via real-time face and object recognition, and to identify early signs of panic or abnormal crowd behavior. Through emotion detection (facial analysis) and audio event detection (screams, chaos), Guardian AI is an AI-powered, all-in-one safety and recovery platform designed for mass gatherings. It empowers authorities with a live dashboard that combines map-based risk visualization, lost-and-found tracking, an instant alerting
 
 3. Logic & Workflow
 
